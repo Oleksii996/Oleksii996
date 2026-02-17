@@ -28,9 +28,9 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 ## 📂 Portfolio
 
-🔗 [ArchDeal](https://www.archdeal.co/)  
-🔗 [CoffeeJoy Landing Page — Team Project (Team Lead & Front-end Developer)](https://riky-droyg.github.io/coffeejoy-project/)
-🔗 [Paws’ Little Home — Team Project (Team Lead & Front-end Developer)](https://riky-droyg.github.io/coffeejoy-project/](https://riky-droyg.github.io/paws-little-home/))
+- 🔗 [ArchDeal](https://www.archdeal.co/)  
+- 🔗 [CoffeeJoy Landing Page — Team Project (Team Lead & Front-end Developer)](https://riky-droyg.github.io/coffeejoy-project/)
+- 🔗 [Paws’ Little Home — Team Project (Team Lead & Front-end Developer)](https://riky-droyg.github.io/coffeejoy-project/](https://riky-droyg.github.io/paws-little-home/))
 
 ---
 
