@@ -1,20 +1,12 @@
-# Hello, I'm Oleksii Ponomarenko 👋  
+# Hi, I'm Oleksii Ponomarenko 👋  
 
 Architect | Entrepreneur | WEB-Developer 
 
---
 
-## 🏗 About Me
-
-I’m an architect and designer based in Frankfurt, Germany, with a passion for creating functional, aesthetic, and thoughtful spaces.
-
-My work combines:
-- Architectural design  
-- Interior concepts  
-- Industrial projects  
-- Digital tools & technology  
-
-I believe good design is a balance between precision, structure, and creativity.
+## 🌍 Languages
+Ukrainian - Native
+English - Upper-Intermediate B2
+German - Advance C1
 
 ---
 
@@ -29,12 +21,19 @@ I believe good design is a balance between precision, structure, and creativity.
 
 ## 🛠 Tools & Technologies
 
-![Revit](https://img.shields.io/badge/Revit-0055A4?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Rhino](https://img.shields.io/badge/Rhino-801010?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-000000?style=flat&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=autodesk&logoColor=white)
+![Rhino](https://img.shields.io/badge/Rhino-000000?style=flat&logo=rhinoceros&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-000000?style=flat&logo=axios&logoColor=white)
+
 
 ---
 
@@ -89,7 +88,4 @@ Paws’ Little Home — Team Project (Team Lead & Front-end Developer)
 Adaptive website for an animal shelter (catalog, details page, adoption form).
 Repo: https://github.com/Riky-Droyg/paws-little-home Live: https://riky-droyg.github.io/paws-little-home/
 
-## 🌍 Languages
-Ukrainian - Native
-English - Upper-Intermediate B2
-German - Advance C1
+
