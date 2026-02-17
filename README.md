@@ -29,13 +29,14 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 ## 📂 Portfolio
 
 🔗 [ArchDeal](https://www.archdeal.co/)  
-🔗 [Selected Projects](#)
+🔗 [CoffeeJoy Landing Page — Team Project (Team Lead & Front-end Developer)](https://riky-droyg.github.io/coffeejoy-project/)
+🔗 [Paws’ Little Home — Team Project (Team Lead & Front-end Developer)](https://riky-droyg.github.io/coffeejoy-project/](https://riky-droyg.github.io/paws-little-home/))
 
 ---
 
 ## 📫 Contact
 
-- 📍 Frankfurt, Germany  
+- 📍 Frankfurt am Main, Germany  
 - 💼 LinkedIn: https://www.linkedin.com/in/oleksii--ponomarenko/
 - ✉️ Email: alexponomarenko996@gmail.com
 - ✉️ Telegram: https://t.me/p_oleksii
@@ -43,8 +44,8 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 ---
 
 ## 🌍 Languages
-Ukrainian - Native
-English - Upper-Intermediate B2
-German - Advance C1
+- Ukrainian - Native
+- English - Upper-Intermediate B2
+- German - Advance C1
 
 
