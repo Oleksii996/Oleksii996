@@ -28,10 +28,10 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 ## 📂 Portfolio
 
-- 🔗 [ArchDeal](https://www.archdeal.co) soon: multifunctional digital platform for interaction and collaboration in architecture
-- 🔗 [CoffeeJoy Landing Page](https://riky-droyg.github.io/coffeejoy-project) team-project (front-end developer) GOIT
-- 🔗 [Paws’ Little Home](https://riky-droyg.github.io/paws-little-home) team-project (front-end developer)  GOIT
-- 🔗 [Weather App OP)](https://oleksii996.github.io/weather_app) simple weather app
+- 🔗 [ArchDeal](https://www.archdeal.co/) soon: multifunctional digital platform for interaction and collaboration in architecture
+- 🔗 [CoffeeJoy Landing Page](https://riky-droyg.github.io/coffeejoy-project/) team-project (front-end developer) GOIT
+- 🔗 [Paws’ Little Home](https://riky-droyg.github.io/paws-little-home/) team-project (front-end developer)  GOIT
+- 🔗 [Weather App OP)](https://oleksii996.github.io/weather_app/) simple weather app
 
 ---
 
