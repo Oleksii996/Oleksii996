@@ -23,6 +23,11 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-000000?style=flat&logo=axios&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white)
+![Archicad](https://img.shields.io/badge/Archicad-000000?style=flat&logo=graphql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 
 ---
 
