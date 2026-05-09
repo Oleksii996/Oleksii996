@@ -10,28 +10,24 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 ![Revit](https://img.shields.io/badge/Revit-000000?style=flat&logo=autodesk&logoColor=white)
 ![Rhino](https://img.shields.io/badge/Rhino-000000?style=flat&logo=rhinoceros&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
-
+![Archicad](https://img.shields.io/badge/Archicad-000000?style=flat&logo=graphql&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-000000?style=flat&logo=axios&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white)
-![Archicad](https://img.shields.io/badge/Archicad-000000?style=flat&logo=graphql&logoColor=white)
-
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white)
 
 ---
 
