@@ -37,7 +37,7 @@ Commercial experience with real production websites + team projects (GoIT). Comf
 - 🔗 [Weather App OP](https://oleksii996.github.io/weather_app/) simple weather app
 - 🔗 [CoffeeJoy Landing Page](https://riky-droyg.github.io/coffeejoy-project/) team-project (front-end developer) GOIT
 - 🔗 [Paws’ Little Home](https://riky-droyg.github.io/paws-little-home/) team-project (front-end developer)  GOIT
-- 🔗 [Stork - for pregnant women](https://project-decodery-front.vercel.app/) team-project (teamlead, fullstack developer)  GOIT
+- 🔗 [Stork](https://project-decodery-front.vercel.app/) team-project (teamlead, fullstack developer)  GOIT
 
 ---
 
